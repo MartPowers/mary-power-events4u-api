@@ -1,0 +1,498 @@
+[
+    {
+      "title": "Vancouver Symphony Orchestra",
+      "date": "2024-06-15",
+      "location": "Vancouver, BC, Canada",
+      "address": "601 Smithe St, Vancouver, BC V6B 3L4",
+      "cost": 50,
+      "description": "Enjoy an evening with the Vancouver Symphony Orchestra performing classical masterpieces.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Seattle Jazz Festival",
+      "date": "2024-07-10",
+      "location": "Seattle, Washington",
+      "address": "305 Harrison St, Seattle, WA 98109",
+      "cost": 75,
+      "description": "A weekend of smooth jazz performances from local and international artists.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Toronto Music Fest",
+      "date": "2024-08-20",
+      "location": "Toronto, Canada",
+      "address": "200 Princes' Blvd, Toronto, ON M6K 3C3",
+      "cost": 60,
+      "description": "Toronto's biggest music festival featuring multiple genres and top artists.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Montreal Jazz Nights",
+      "date": "2024-09-05",
+      "location": "Montreal, Canada",
+      "address": "175 Sainte-Catherine St W, Montreal, QC H2X 1Z8",
+      "cost": 55,
+      "description": "An evening of jazz performances in the heart of Montreal.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Seattle Rock Concert",
+      "date": "2024-10-12",
+      "location": "Seattle, Washington",
+      "address": "800 Occidental Ave S, Seattle, WA 98134",
+      "cost": 65,
+      "description": "Rock out with top rock bands at the Seattle Rock Concert.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Vancouver Pop Night",
+      "date": "2024-11-22",
+      "location": "Vancouver, BC, Canada",
+      "address": "800 Griffiths Way, Vancouver, BC V6B 6G1",
+      "cost": 70,
+      "description": "A night filled with pop music's biggest hits and performers.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Toronto Indie Music Fest",
+      "date": "2024-12-03",
+      "location": "Toronto, Canada",
+      "address": "100 Queen St W, Toronto, ON M5H 2N2",
+      "cost": 45,
+      "description": "Celebrate indie music with performances from up-and-coming artists.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Montreal Classical Music Night",
+      "date": "2024-12-18",
+      "location": "Montreal, Canada",
+      "address": "260 Boulevard de Maisonneuve O, Montreal, QC H2X 1Y9",
+      "cost": 50,
+      "description": "Experience the beauty of classical music with performances by renowned musicians.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Seattle Country Music Festival",
+      "date": "2024-01-15",
+      "location": "Seattle, Washington",
+      "address": "401 Mercer St, Seattle, WA 98109",
+      "cost": 80,
+      "description": "Enjoy country music performances from top artists in the industry.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Vancouver Folk Festival",
+      "date": "2024-02-25",
+      "location": "Vancouver, BC, Canada",
+      "address": "Vanier Park, Vancouver, BC",
+      "cost": 55,
+      "description": "A celebration of folk music with performances by various artists.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Toronto Blues Fest",
+      "date": "2024-03-10",
+      "location": "Toronto, Canada",
+      "address": "The Distillery District, Toronto, ON",
+      "cost": 50,
+      "description": "An evening dedicated to the soulful sounds of blues music.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Montreal Hip-Hop Show",
+      "date": "2024-04-05",
+      "location": "Montreal, Canada",
+      "address": "1001 Place Jean-Paul-Riopelle, Montreal, QC H2Z 1H5",
+      "cost": 65,
+      "description": "A showcase of the best hip-hop talent from around the world.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+    {
+      "title": "Vancouver Electronic Music Festival",
+      "date": "2024-05-20",
+      "location": "Vancouver, BC, Canada",
+      "address": "Stanley Park, Vancouver, BC",
+      "cost": 70,
+      "description": "Dance the night away to the beats of top electronic music DJs.",
+      "category": "Concerts",
+      "image": "https://example.com/tech-innovators-conference.jpg"
+    },
+
+    {
+        "title": "Tech Innovators Conference",
+        "date": "2024-06-20",
+        "location": "Vancouver, BC, Canada",
+        "address": "999 Canada Pl, Vancouver, BC V6C 3E1",
+        "cost": 150,
+        "description": "Join industry leaders to discuss the latest innovations in technology.",
+        "category": "Conferences",
+        "image": "https://example.com/tech-innovators-conference.jpg"
+      },
+      {
+        "title": "Seattle Marketing Summit",
+        "date": "2024-07-18",
+        "location": "Seattle, Washington",
+        "address": "705 Pike St, Seattle, WA 98101",
+        "cost": 120,
+        "description": "A gathering of marketing professionals to share strategies and insights.",
+        "category": "Conferences",
+        "image": "https://example.com/seattle-marketing-summit.jpg"
+      },
+      {
+        "title": "Toronto Health Conference",
+        "date": "2024-08-25",
+        "location": "Toronto, Canada",
+        "address": "255 Front St W, Toronto, ON M5V 2W6",
+        "cost": 200,
+        "description": "Explore the future of healthcare with top experts and innovators.",
+        "category": "Conferences",
+        "image": "https://example.com/toronto-health-conference.jpg"
+      },
+      {
+        "title": "Montreal Business Expo",
+        "date": "2024-09-12",
+        "location": "Montreal, Canada",
+        "address": "159 St-Antoine St W, Montreal, QC H2Z 1H2",
+        "cost": 175,
+        "description": "A platform for businesses to showcase their products and services.",
+        "category": "Conferences",
+        "image": "https://example.com/montreal-business-expo.jpg"
+      },
+      {
+        "title": "Vancouver Sustainability Conference",
+        "date": "2024-10-10",
+        "location": "Vancouver, BC, Canada",
+        "address": "1055 Canada Pl, Vancouver, BC V6C 0C3",
+        "cost": 130,
+        "description": "Discuss sustainable practices and solutions with industry leaders.",
+        "category": "Conferences",
+        "image": "https://example.com/vancouver-sustainability-conference.jpg"
+      },
+      {
+        "title": "Seattle Tech Conference",
+        "date": "2024-11-05",
+        "location": "Seattle, Washington",
+        "address": "800 Convention Pl, Seattle, WA 98101",
+        "cost": 160,
+        "description": "Tech professionals gather to explore the latest trends and technologies.",
+        "category": "Conferences",
+        "image": "https://example.com/seattle-tech-conference.jpg"
+      },
+      {
+        "title": "Toronto Finance Conference",
+        "date": "2024-12-10",
+        "location": "Toronto, Canada",
+        "address": "123 Queen St W, Toronto, ON M5H 2M9",
+        "cost": 180,
+        "description": "Finance experts discuss the current state and future of global finance.",
+        "category": "Conferences",
+        "image": "https://example.com/toronto-finance-conference.jpg"
+      },
+      {
+        "title": "Montreal Education Summit",
+        "date": "2024-01-22",
+        "location": "Montreal, Canada",
+        "address": "900 de la Gauchetière St W, Montreal, QC H5A 1E4",
+        "cost": 140,
+        "description": "Educational leaders gather to discuss the future of education.",
+        "category": "Conferences",
+        "image": "https://example.com/montreal-education-summit.jpg"
+      },
+      {
+        "title": "Vancouver AI Conference",
+        "date": "2024-02-19",
+        "location": "Vancouver, BC, Canada",
+        "address": "999 Canada Pl, Vancouver, BC V6C 3E1",
+        "cost": 220,
+        "description": "Explore the advancements and implications of artificial intelligence.",
+        "category": "Conferences",
+        "image": "https://example.com/vancouver-ai-conference.jpg"
+      },
+      {
+        "title": "Seattle Renewable Energy Conference",
+        "date": "2024-03-15",
+        "location": "Seattle, Washington",
+        "address": "705 Pike St, Seattle, WA 98101",
+        "cost": 150,
+        "description": "Discuss renewable energy solutions with industry experts.",
+        "category": "Conferences",
+        "image": "https://example.com/seattle-renewable-energy-conference.jpg"
+      },
+      {
+        "title": "Toronto Tech Summit",
+        "date": "2024-04-20",
+        "location": "Toronto, Canada",
+        "address": "255 Front St W, Toronto, ON M5V 2W6",
+        "cost": 160,
+        "description": "Tech professionals come together to discuss new technologies and trends.",
+        "category": "Conferences",
+        "image": "https://example.com/toronto-tech-summit.jpg"
+      },
+      {
+        "title": "Montreal Marketing Expo",
+        "date": "2024-05-30",
+        "location": "Montreal, Canada",
+        "address": "159 St-Antoine St W, Montreal, QC H2Z 1H2",
+        "cost": 170,
+        "description": "Marketing professionals gather to share insights and strategies.",
+        "category": "Conferences",
+        "image": "https://example.com/montreal-marketing-expo.jpg"
+      },
+
+      {
+        "title": "Vancouver Photography Workshop",
+        "date": "2024-06-25",
+        "location": "Vancouver, BC, Canada",
+        "address": "123 Main St, Vancouver, BC",
+        "cost": 100,
+        "description": "Learn the basics of photography in this hands-on workshop.",
+        "category": "Workshops",
+        "image": "https://example.com/vancouver-photography-workshop.jpg"
+      },
+      {
+        "title": "Seattle Coding Bootcamp",
+        "date": "2024-07-15",
+        "location": "Seattle, Washington",
+        "address": "456 Pine St, Seattle, WA",
+        "cost": 300,
+        "description": "An intensive coding bootcamp for beginners and advanced coders.",
+        "category": "Workshops",
+        "image": "https://example.com/seattle-coding-bootcamp.jpg"
+      },
+      {
+        "title": "Toronto Painting Workshop",
+        "date": "2024-08-22",
+        "location": "Toronto, Canada",
+        "address": "789 King St W, Toronto, ON",
+        "cost": 80,
+        "description": "Explore different painting techniques in this creative workshop.",
+        "category": "Workshops",
+        "image": "https://example.com/toronto-painting-workshop.jpg"
+      },
+      {
+        "title": "Montreal Cooking Class",
+        "date": "2024-09-10",
+        "location": "Montreal, Canada",
+        "address": "1010 St Catherine St W, Montreal, QC",
+        "cost": 120,
+        "description": "Learn to cook gourmet meals with professional chefs.",
+        "category": "Workshops",
+        "image": "https://example.com/montreal-cooking-class.jpg"
+      },
+      {
+        "title": "Vancouver Yoga Workshop",
+        "date": "2024-10-05",
+        "location": "Vancouver, BC, Canada",
+        "address": "111 Yoga St, Vancouver, BC",
+        "cost": 60,
+        "description": "Improve your yoga skills with experienced instructors.",
+        "category": "Workshops",
+        "image": "https://example.com/vancouver-yoga-workshop.jpg"
+      },
+      {
+        "title": "Seattle Woodworking Workshop",
+        "date": "2024-11-18",
+        "location": "Seattle, Washington",
+        "address": "222 Carpenter St, Seattle, WA",
+        "cost": 150,
+        "description": "Learn the art of woodworking in this hands-on workshop.",
+        "category": "Workshops",
+        "image": "https://example.com/seattle-woodworking-workshop.jpg"
+      },
+      {
+        "title": "Toronto Writing Workshop",
+        "date": "2024-12-08",
+        "location": "Toronto, Canada",
+        "address": "333 Literature Ave, Toronto, ON",
+        "cost": 90,
+        "description": "Enhance your writing skills with tips from professional writers.",
+        "category": "Workshops",
+        "image": "https://example.com/toronto-writing-workshop.jpg"
+      },
+      {
+        "title": "Montreal Music Production Workshop",
+        "date": "2024-01-14",
+        "location": "Montreal, Canada",
+        "address": "444 Sound St, Montreal, QC",
+        "cost": 200,
+        "description": "Learn music production techniques from industry experts.",
+        "category": "Workshops",
+        "image": "https://example.com/montreal-music-production-workshop.jpg"
+      },
+      {
+        "title": "Vancouver Web Development Workshop",
+        "date": "2024-02-23",
+        "location": "Vancouver, BC, Canada",
+        "address": "555 Code Ln, Vancouver, BC",
+        "cost": 250,
+        "description": "A workshop for aspiring web developers to learn essential skills.",
+        "category": "Workshops",
+        "image": "https://example.com/vancouver-web-development-workshop.jpg"
+      },
+      {
+        "title": "Seattle Graphic Design Workshop",
+        "date": "2024-03-19",
+        "location": "Seattle, Washington",
+        "address": "666 Art Blvd, Seattle, WA",
+        "cost": 100,
+        "description": "Develop your graphic design skills with practical exercises.",
+        "category": "Workshops",
+        "image": "https://example.com/seattle-graphic-design-workshop.jpg"
+      },
+      {
+        "title": "Toronto Digital Marketing Workshop",
+        "date": "2024-04-28",
+        "location": "Toronto, Canada",
+        "address": "777 Marketing Rd, Toronto, ON",
+        "cost": 200,
+        "description": "Learn the latest digital marketing strategies and tools.",
+        "category": "Workshops",
+        "image": "https://example.com/toronto-digital-marketing-workshop.jpg"
+      },
+      {
+        "title": "Montreal Animation Workshop",
+        "date": "2024-05-24",
+        "location": "Montreal, Canada",
+        "address": "888 Animation St, Montreal, QC",
+        "cost": 180,
+        "description": "Create your own animations with guidance from professionals.",
+        "category": "Workshops",
+        "image": "https://example.com/montreal-animation-workshop.jpg"
+      },
+
+      {
+        "title": "Vancouver Leadership Seminar",
+        "date": "2024-06-12",
+        "location": "Vancouver, BC, Canada",
+        "address": "123 Main St, Vancouver, BC",
+        "cost": 100,
+        "description": "Enhance your leadership skills with insights from top leaders.",
+        "category": "Seminars",
+        "image": "https://example.com/vancouver-leadership-seminar.jpg"
+      },
+      {
+        "title": "Seattle AI Seminar",
+        "date": "2024-07-08",
+        "location": "Seattle, Washington",
+        "address": "456 Pine St, Seattle, WA",
+        "cost": 120,
+        "description": "Explore the future of artificial intelligence with industry experts.",
+        "category": "Seminars",
+        "image": "https://example.com/seattle-ai-seminar.jpg"
+      },
+      {
+        "title": "Toronto Health and Wellness Seminar",
+        "date": "2024-08-14",
+        "location": "Toronto, Canada",
+        "address": "789 King St W, Toronto, ON",
+        "cost": 80,
+        "description": "Learn about the latest trends in health and wellness.",
+        "category": "Seminars",
+        "image": "https://example.com/toronto-health-wellness-seminar.jpg"
+      },
+      {
+        "title": "Montreal Financial Planning Seminar",
+        "date": "2024-09-09",
+        "location": "Montreal, Canada",
+        "address": "1010 St Catherine St W, Montreal, QC",
+        "cost": 110,
+        "description": "Gain insights into financial planning and management.",
+        "category": "Seminars",
+        "image": "https://example.com/montreal-financial-planning-seminar.jpg"
+      },
+      {
+        "title": "Vancouver Digital Marketing Seminar",
+        "date": "2024-10-03",
+        "location": "Vancouver, BC, Canada",
+        "address": "111 Marketing St, Vancouver, BC",
+        "cost": 90,
+        "description": "Discover the latest strategies in digital marketing.",
+        "category": "Seminars",
+        "image": "https://example.com/vancouver-digital-marketing-seminar.jpg"
+      },
+      {
+        "title": "Seattle Renewable Energy Seminar",
+        "date": "2024-11-12",
+        "location": "Seattle, Washington",
+        "address": "222 Energy St, Seattle, WA",
+        "cost": 100,
+        "description": "Discuss the future of renewable energy sources.",
+        "category": "Seminars",
+        "image": "https://example.com/seattle-renewable-energy-seminar.jpg"
+      },
+      {
+        "title": "Toronto Innovation Seminar",
+        "date": "2024-12-05",
+        "location": "Toronto, Canada",
+        "address": "333 Innovation Rd, Toronto, ON",
+        "cost": 130,
+        "description": "Learn about innovative solutions across various industries.",
+        "category": "Seminars",
+        "image": "https://example.com/toronto-innovation-seminar.jpg"
+      },
+      {
+        "title": "Montreal Startups Seminar",
+        "date": "2024-01-10",
+        "location": "Montreal, Canada",
+        "address": "444 Startup St, Montreal, QC",
+        "cost": 90,
+        "description": "A seminar for aspiring entrepreneurs and startup founders.",
+        "category": "Seminars",
+        "image": "https://example.com/montreal-startups-seminar.jpg"
+      },
+      {
+        "title": "Vancouver Cybersecurity Seminar",
+        "date": "2024-02-18",
+        "location": "Vancouver, BC, Canada",
+        "address": "555 Security Ln, Vancouver, BC",
+        "cost": 140,
+        "description": "Explore the latest trends in cybersecurity and data protection.",
+        "category": "Seminars",
+        "image": "https://example.com/vancouver-cybersecurity-seminar.jpg"
+      },
+      {
+        "title": "Seattle Cloud Computing Seminar",
+        "date": "2024-03-20",
+        "location": "Seattle, Washington",
+        "address": "666 Cloud Blvd, Seattle, WA",
+        "cost": 120,
+        "description": "Discuss the advancements and challenges in cloud computing.",
+        "category": "Seminars",
+        "image": "https://example.com/seattle-cloud-computing-seminar.jpg"
+      },
+      {
+        "title": "Toronto Data Science Seminar",
+        "date": "2024-04-25",
+        "location": "Toronto, Canada",
+        "address": "777 Data Rd, Toronto, ON",
+        "cost": 100,
+        "description": "Learn about the latest developments in data science.",
+        "category": "Seminars",
+        "image": "https://example.com/toronto-data-science-seminar.jpg"
+      },
+      {
+        "title": "Montreal Robotics Seminar",
+        "date": "2024-05-29",
+        "location": "Montreal, Canada",
+        "address": "888 Robot St, Montreal, QC",
+        "cost": 150,
+        "description": "Discuss the future of robotics and automation.",
+        "category": "Seminars",
+        "image": "https://example.com/montreal-robotics-seminar.jpg"
+      }
+
+
+    
+  ]
