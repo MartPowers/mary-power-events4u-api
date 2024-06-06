@@ -6,6 +6,7 @@
       "address": "601 Smithe St, Vancouver, BC V6B 3L4",
       "cost": 50,
       "description": "Enjoy an evening with the Vancouver Symphony Orchestra performing classical masterpieces.",
+      "details": "Experience a magical evening with the renowned Vancouver Symphony Orchestra as they enchant audiences with a captivating repertoire of classical masterpieces. Led by world-class conductors and featuring talented musicians, this performance promises an unforgettable musical journey through the ages. From timeless symphonies to mesmerizing concertos, immerse yourself in the rich tapestry of orchestral excellence. The program highlights include iconic compositions by Mozart, Beethoven, and Tchaikovsky, showcasing the orchestra's virtuosity and passion for musical expression. The majestic venue provides the perfect ambiance for an evening of musical splendor, where every note resonates with emotion and brilliance. Don't miss this opportunity to witness the magic of live orchestral music with the Vancouver Symphony Orchestra.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -16,6 +17,7 @@
       "address": "305 Harrison St, Seattle, WA 98109",
       "cost": 75,
       "description": "A weekend of smooth jazz performances from local and international artists.",
+      "details": "Immerse yourself in a weekend of smooth jazz performances from local and international artists at the Seattle Jazz Festival. This festival celebrates the soulful rhythms and melodies of jazz music, offering a diverse lineup of performances that will captivate jazz enthusiasts and newcomers alike. From intimate club settings to outdoor stages overlooking the city skyline, each venue adds its unique charm to the festival experience. Indulge in the sounds of saxophones, trumpets, and soulful vocals as the music transports you to a world of musical delight. Join us for a celebration of jazz culture and creativity in the vibrant city of Seattle.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -26,6 +28,7 @@
       "address": "200 Princes' Blvd, Toronto, ON M6K 3C3",
       "cost": 60,
       "description": "Toronto's biggest music festival featuring multiple genres and top artists.",
+      "details": "Toronto's biggest music festival is back with a bang, featuring multiple genres and top artists from around the world. From rock and pop to indie and electronic, this festival offers a diverse lineup that caters to every musical taste. Experience the energy of live performances against the backdrop of Toronto's iconic skyline, creating a memorable fusion of music and city vibes. Whether you're a die-hard fan or exploring new sounds, the Toronto Music Fest promises an electrifying atmosphere filled with musical discovery and excitement. Join us for an unforgettable weekend of music, fun, and community spirit.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -36,6 +39,7 @@
       "address": "175 Sainte-Catherine St W, Montreal, QC H2X 1Z8",
       "cost": 55,
       "description": "An evening of jazz performances in the heart of Montreal.",
+      "details": "Immerse yourself in an evening of jazz performances in the heart of Montreal at Montreal Jazz Nights. This event celebrates the soulful sounds and improvisational brilliance of jazz music, featuring talented musicians from the local jazz scene and beyond. From smooth melodies to upbeat rhythms, each performance promises to captivate audiences and evoke the spirit of jazz culture. The venue's intimate setting creates the perfect ambiance for a memorable night of music and camaraderie. Join us for a musical journey that pays homage to the timeless artistry of jazz.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -46,6 +50,7 @@
       "address": "800 Occidental Ave S, Seattle, WA 98134",
       "cost": 65,
       "description": "Rock out with top rock bands at the Seattle Rock Concert.",
+      "details": "Get ready to rock out at the Seattle Rock Concert, featuring top rock bands and electrifying performances that will leave you energized and exhilarated. From iconic classics to modern hits, this concert showcases the diversity and power of rock music, drawing fans of all ages to join in the celebration of rock culture. The venue's dynamic atmosphere amplifies the energy of live music, creating an unforgettable experience for rock enthusiasts and music lovers alike. Join us for a night of high-octane entertainment and rock 'n' roll spirit in the heart of Seattle.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -56,6 +61,7 @@
       "address": "800 Griffiths Way, Vancouver, BC V6B 6G1",
       "cost": 70,
       "description": "A night filled with pop music's biggest hits and performers.",
+      "details": "Get ready for a night filled with pop music's biggest hits and performers at Vancouver Pop Night. This event celebrates the infectious melodies and energetic performances that define the pop music genre, featuring chart-topping artists and rising stars on the pop music scene. From dance-worthy beats to heartfelt ballads, the concert offers a diverse range of pop sounds that will keep you singing and dancing all night long. The venue's vibrant atmosphere and state-of-the-art stage production enhance the concert experience, creating a memorable night of pop music celebration in Vancouver.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -66,6 +72,7 @@
       "address": "100 Queen St W, Toronto, ON M5H 2N2",
       "cost": 45,
       "description": "Celebrate indie music with performances from up-and-coming artists.",
+      "details": "Celebrate indie music's creative spirit and unique sounds at Toronto Indie Music Fest, featuring performances from up-and-coming artists and indie music veterans. This festival showcases the diversity and innovation of indie music, highlighting indie rock, folk, electronic, and experimental genres. Discover new favorites and enjoy intimate performances in Toronto's vibrant music scene, where indie artists thrive and creativity knows no bounds. Join us for a day of musical discovery, community connections, and indie music celebration in the heart of Toronto.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -76,6 +83,7 @@
       "address": "260 Boulevard de Maisonneuve O, Montreal, QC H2X 1Y9",
       "cost": 50,
       "description": "Experience the beauty of classical music with performances by renowned musicians.",
+      "details": "Experience the timeless beauty and elegance of classical music at Montreal Classical Music Night, featuring performances by renowned musicians and orchestras. This event celebrates the rich heritage of classical music, showcasing masterpieces from Mozart, Beethoven, Bach, and other classical composers. From symphonies to sonatas, each performance is a testament to the enduring appeal and emotional depth of classical compositions. The venue's acoustics and ambiance create a perfect setting for an evening of musical immersion and artistic excellence. Join us for a night of classical music appreciation and musical refinement in Montreal.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -86,6 +94,7 @@
       "address": "401 Mercer St, Seattle, WA 98109",
       "cost": 80,
       "description": "Enjoy country music performances from top artists in the industry.",
+      "details": "Saddle up for a country music extravaganza at the Seattle Country Music Festival, featuring top artists from the country music scene and exciting performances that celebrate the heart and soul of country music. From twangy tunes to heartfelt ballads, this festival offers a diverse lineup of country music favorites that will have you singing along and tapping your boots. The festival atmosphere is filled with southern charm and hospitality, creating a welcoming space for country music fans to gather and enjoy the best of country music culture. Join us for a day of country music fun and celebration in Seattle. ",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -96,6 +105,7 @@
       "address": "Vanier Park, Vancouver, BC",
       "cost": 55,
       "description": "A celebration of folk music with performances by various artists.",
+      "details": "Celebrate the rich tapestry of folk music at the Vancouver Folk Festival, featuring performances by various artists and musicians representing the diverse genres and traditions of folk music. From acoustic melodies to foot-stomping rhythms, this festival offers a vibrant showcase of folk music's enduring appeal and cultural significance. Discover new sounds and enjoy intimate performances in the scenic surroundings of Vanier Park, where music and nature harmonize to create a unique festival experience. Join us for a day of folk music celebration, community connections, and artistic expression in Vancouver.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -106,6 +116,7 @@
       "address": "The Distillery District, Toronto, ON",
       "cost": 50,
       "description": "An evening dedicated to the soulful sounds of blues music.",
+      "details": "Experience the soulful sounds and electrifying performances of blues music at the Toronto Blues Fest, featuring top blues artists and legendary performers from the blues music scene. From smoky vocals to blistering guitar solos, this festival offers a showcase of blues music's emotional depth and musical mastery. The historic setting of The Distillery District adds a touch of nostalgia and authenticity to the festival atmosphere, creating a unique backdrop for blues music enthusiasts to immerse themselves in the rich heritage of the blues. Join us for a day of blues music appreciation, storytelling, and musical expression in Toronto.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -116,6 +127,7 @@
       "address": "1001 Place Jean-Paul-Riopelle, Montreal, QC H2Z 1H5",
       "cost": 65,
       "description": "A showcase of the best hip-hop talent from around the world.",
+      "details": "Get ready for a showcase of the best hip-hop talent from around the world at the Montreal Hip-Hop Show, featuring dynamic performances and high-energy acts that represent the diverse styles and voices of hip-hop culture. From lyrical storytelling to infectious beats, this show celebrates hip-hop's creativity, authenticity, and social impact. The venue's urban vibe and cutting-edge stage production enhance the hip-hop experience, creating a dynamic space for hip-hop fans to connect, dance, and celebrate the artistry of hip-hop music. ",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -126,6 +138,7 @@
       "address": "Stanley Park, Vancouver, BC",
       "cost": 70,
       "description": "Dance the night away to the beats of top electronic music DJs.",
+      "details": "Dance the night away to the beats of top electronic music DJs at the Vancouver Electronic Music Festival, where pulsating rhythms and immersive sounds create an electrifying atmosphere of music and movement. This festival celebrates the cutting-edge sounds and innovations of electronic music, featuring renowned DJs and producers who push the boundaries of sonic exploration. From deep house to techno, the festival offers a diverse lineup of electronic genres that will captivate dance music enthusiasts and electronic music fans. The open-air venue in Stanley Park provides a stunning backdrop for an unforgettable night of electronic music celebration and dance floor euphoria. Join us for a night of electronic music bliss and festival vibes in Vancouver.",
       "category": "Concerts",
       "image": "/event-images/concert.jpg"
     },
@@ -137,6 +150,7 @@
         "address": "999 Canada Pl, Vancouver, BC V6C 3E1",
         "cost": 150,
         "description": "Join industry leaders to discuss the latest innovations in technology.",
+        "details": "Join industry leaders at the Tech Innovators Conference in Vancouver to explore groundbreaking technologies shaping the future. Engage in discussions on AI, blockchain, and cybersecurity, with keynote speakers sharing insights on digital transformation strategies. Network with tech innovators, startups, and investors to forge partnerships and drive innovation forward. Experience hands-on demos and workshops showcasing the latest tech trends and solutions revolutionizing industries worldwide. Don't miss this opportunity to be part of the forefront of technological innovation and collaboration.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -147,6 +161,7 @@
         "address": "705 Pike St, Seattle, WA 98101",
         "cost": 120,
         "description": "A gathering of marketing professionals to share strategies and insights.",
+        "details": "The Seattle Marketing Summit brings together marketing professionals for a dynamic exchange of strategies and insights. Dive into topics such as digital marketing trends, customer engagement, and data-driven marketing approaches. Gain valuable perspectives from industry experts through panel discussions, case studies, and interactive sessions. Network with peers, agencies, and marketing leaders to discover new opportunities and best practices in today's competitive market landscape. Elevate your marketing strategies and stay ahead of industry challenges at this premier marketing event.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -157,6 +172,7 @@
         "address": "255 Front St W, Toronto, ON M5V 2W6",
         "cost": 200,
         "description": "Explore the future of healthcare with top experts and innovators.",
+        "details": "Explore the future of healthcare at the Toronto Health Conference, where top experts and innovators converge to discuss cutting-edge advancements. Delve into topics such as telemedicine, precision medicine, and healthcare AI, shaping the healthcare landscape. Participate in workshops, seminars, and keynote sessions offering insights into healthcare technology and patient-centric care models. Connect with healthcare professionals, researchers, and policymakers to address challenges and foster collaborations driving healthcare innovation. Be part of shaping the future of healthcare delivery and patient outcomes at this transformative conference.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -167,6 +183,7 @@
         "address": "159 St-Antoine St W, Montreal, QC H2Z 1H2",
         "cost": 175,
         "description": "A platform for businesses to showcase their products and services.",
+        "details": "The Montreal Business Expo is a premier platform for businesses to showcase their products, services, and innovations. Engage with industry leaders, investors, and entrepreneurs in a dynamic business environment fostering growth and collaboration. Explore industry trends, market opportunities, and business strategies through interactive exhibits and presentations. Network with potential clients, partners, and stakeholders to expand your business reach and build valuable connections. Discover new markets, technologies, and business solutions driving economic development and success.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -177,6 +194,7 @@
         "address": "1055 Canada Pl, Vancouver, BC V6C 0C3",
         "cost": 130,
         "description": "Discuss sustainable practices and solutions with industry leaders.",
+        "details": "Join industry leaders, policymakers, and sustainability advocates at the Vancouver Sustainability Conference to address pressing environmental challenges. Explore sustainable practices, renewable energy solutions, and climate change mitigation strategies through expert panels and workshops. Learn about eco-friendly innovations, green technologies, and sustainable business models driving environmental stewardship and resilience. Collaborate with stakeholders, NGOs, and government agencies to drive sustainable development goals and create a greener future. Take part in discussions, initiatives, and partnerships shaping the global sustainability agenda at this impactful conference.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -187,6 +205,7 @@
         "address": "800 Convention Pl, Seattle, WA 98101",
         "cost": 160,
         "description": "Tech professionals gather to explore the latest trends and technologies.",
+        "details": "Tech professionals gather at the Seattle Tech Conference to explore the latest trends and technologies driving innovation. Dive into topics such as cloud computing, artificial intelligence, and cybersecurity strategies shaping the tech landscape. Engage with industry leaders, tech startups, and IT experts through insightful sessions, workshops, and tech demos. Network with peers and potential collaborators to exchange ideas and drive technological advancements. Gain valuable insights into emerging tech sectors and disruptive innovations impacting industries globally.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -197,6 +216,7 @@
         "address": "123 Queen St W, Toronto, ON M5H 2M9",
         "cost": 180,
         "description": "Finance experts discuss the current state and future of global finance.",
+        "details": "Finance experts convene at the Toronto Finance Conference to discuss the evolving landscape of global finance and investment strategies. Explore topics such as fintech disruption, sustainable finance, and regulatory developments shaping financial markets. Hear from industry thought leaders, economists, and financial analysts on market trends, risk management, and investment opportunities. Participate in interactive sessions, panel discussions, and networking events to gain valuable insights and build professional connections. Stay ahead of financial challenges and navigate market complexities at this essential finance conference.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -207,6 +227,7 @@
         "address": "900 de la Gauchetière St W, Montreal, QC H5A 1E4",
         "cost": 140,
         "description": "Educational leaders gather to discuss the future of education.",
+        "details": "Educational leaders converge at the Montreal Education Summit to shape the future of learning and educational excellence. Explore innovative teaching methods, edtech solutions, and student-centered approaches revolutionizing education. Engage in discussions on inclusive education, digital literacy, and lifelong learning strategies for diverse learners. Collaborate with educators, policymakers, and industry experts to address challenges and opportunities in education reform. Discover new pedagogical practices, curriculum innovations, and educational technologies driving educational transformation.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -217,6 +238,7 @@
         "address": "999 Canada Pl, Vancouver, BC V6C 3E1",
         "cost": 220,
         "description": "Explore the advancements and implications of artificial intelligence.",
+        "details": "Delve into the advancements and implications of artificial intelligence at the Vancouver AI Conference. Explore AI ethics, machine learning applications, and AI-driven innovations shaping industries and society. Hear from leading AI researchers, data scientists, and tech pioneers on AI trends, challenges, and future directions. Participate in hands-on workshops, AI demos, and tech showcases showcasing AI's transformative potential. Network with AI enthusiasts, business leaders, and policymakers to discuss AI governance, responsible AI development, and AI's impact on jobs and society.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -227,6 +249,7 @@
         "address": "705 Pike St, Seattle, WA 98101",
         "cost": 150,
         "description": "Discuss renewable energy solutions with industry experts.",
+        "details": "The Seattle Renewable Energy Conference brings together industry experts, policymakers, and renewable energy advocates to explore sustainable energy solutions. Dive into discussions on solar power, wind energy, and clean energy policies driving renewable energy adoption. Learn about energy storage technologies, grid modernization, and sustainable infrastructure development. Collaborate with stakeholders, environmentalists, and energy professionals to accelerate the transition to clean and renewable energy sources. Discover innovative strategies, best practices, and investment opportunities in the renewable energy sector.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -237,6 +260,7 @@
         "address": "255 Front St W, Toronto, ON M5V 2W6",
         "cost": 160,
         "description": "Tech professionals come together to discuss new technologies and trends.",
+        "details": "Tech professionals converge at the Toronto Tech Summit to explore new technologies, digital trends, and innovation strategies. Dive into topics such as cybersecurity, cloud computing, and digital transformation driving tech disruption. Engage with tech leaders, IT experts, and startups through insightful keynotes, tech talks, and interactive sessions. Network with peers, investors, and industry influencers to forge partnerships and drive tech innovation forward. Stay updated on emerging tech trends and harness the power of technology to drive business growth and digital excellence.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -247,6 +271,7 @@
         "address": "159 St-Antoine St W, Montreal, QC H2Z 1H2",
         "cost": 170,
         "description": "Marketing professionals gather to share insights and strategies.",
+        "details": "Marketing professionals unite at the Montreal Marketing Expo to explore the latest trends, strategies, and innovations in marketing and branding. Dive into topics such as digital marketing, social media strategies, and customer experience optimization. Learn from marketing experts, industry leaders, and brand strategists through insightful workshops, case studies, and panel discussions. Network with peers, agencies, and marketing influencers to gain valuable insights and expand your marketing network. Discover new tools, techniques, and best practices driving marketing success and customer engagement.",
         "category": "Conferences",
         "image": "/event-images/conference.jpg"
       },
@@ -258,6 +283,7 @@
         "address": "123 Main St, Vancouver, BC",
         "cost": 100,
         "description": "Learn the basics of photography in this hands-on workshop.",
+        "details": "Dive into the world of photography in this hands-on workshop designed for beginners and enthusiasts alike. Learn essential photography techniques, from composition to lighting, with guidance from experienced photographers. Explore different camera settings and shooting modes to capture stunning photos in various scenarios. Gain practical skills through photo walks and interactive sessions, enhancing your ability to create visually captivating images. Join us and unleash your creativity behind the lens!",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -268,6 +294,7 @@
         "address": "456 Pine St, Seattle, WA",
         "cost": 300,
         "description": "An intensive coding bootcamp for beginners and advanced coders.",
+        "details": "Accelerate your coding journey with our intensive coding bootcamp designed for both beginners and advanced coders. Dive deep into programming fundamentals, web development, and software engineering concepts with industry experts. Build real-world projects and applications to hone your coding skills and problem-solving abilities. Receive personalized mentorship and feedback to maximize your learning experience and achieve coding mastery. Join us and take your coding skills to the next level in this immersive bootcamp experience!",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -278,6 +305,7 @@
         "address": "789 King St W, Toronto, ON",
         "cost": 80,
         "description": "Explore different painting techniques in this creative workshop.",
+        "details": "Unleash your creativity in this inspiring painting workshop designed for artists of all levels. Explore different painting techniques, styles, and mediums under the guidance of skilled art instructors. Discover the joy of expressing yourself through art as you create your own masterpiece. Receive personalized feedback and tips to enhance your painting skills and artistic vision. Join us for a fun and enriching experience that will ignite your passion for painting and creativity.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -288,6 +316,7 @@
         "address": "1010 St Catherine St W, Montreal, QC",
         "cost": 120,
         "description": "Learn to cook gourmet meals with professional chefs.",
+        "details": "Embark on a culinary journey in this hands-on cooking class led by professional chefs. Learn essential cooking techniques, knife skills, and culinary secrets to create gourmet meals. Explore diverse cuisines and flavors as you prepare and savor delicious dishes with fresh ingredients. Receive personalized guidance and cooking tips to elevate your culinary skills and culinary repertoire. Join us and discover the joy of cooking as you indulge in a delightful culinary experience.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -298,6 +327,7 @@
         "address": "111 Yoga St, Vancouver, BC",
         "cost": 60,
         "description": "Improve your yoga skills with experienced instructors.",
+        "details": "Rejuvenate your mind, body, and soul in this invigorating yoga workshop led by experienced instructors. Explore various yoga styles, meditation techniques, and mindfulness practices to enhance your well-being. Improve your flexibility, strength, and balance through yoga poses and sequences suitable for all levels. Experience deep relaxation and inner peace as you connect with your breath and inner self. Join us and embark on a transformative journey to wellness and holistic living.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -308,6 +338,7 @@
         "address": "222 Carpenter St, Seattle, WA",
         "cost": 150,
         "description": "Learn the art of woodworking in this hands-on workshop.",
+        "details": "Discover the art of woodworking in this hands-on workshop designed for woodworking enthusiasts and beginners alike. Learn essential woodworking techniques, from joinery to finishing, with guidance from experienced woodworkers. Create your own woodworking projects, from furniture pieces to decorative items, using quality materials and tools. Gain practical skills in woodworking safety, tool usage, and project design to bring your woodworking ideas to life. Join us and unleash your creativity in the world of woodworking!",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -318,6 +349,7 @@
         "address": "333 Literature Ave, Toronto, ON",
         "cost": 90,
         "description": "Enhance your writing skills with tips from professional writers.",
+        "details": "Elevate your writing skills in this dynamic writing workshop led by professional writers and authors. Explore different writing genres, styles, and techniques to enhance your storytelling abilities. Receive constructive feedback and editorial guidance to improve your writing craft and narrative voice. Engage in creative writing exercises, prompts, and discussions to spark inspiration and creativity. Join us and embark on a transformative writing journey to unleash your storytelling potential.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -328,6 +360,7 @@
         "address": "444 Sound St, Montreal, QC",
         "cost": 200,
         "description": "Learn music production techniques from industry experts.",
+        "details": "Dive into the world of music production in this immersive workshop led by industry experts and music producers. Learn the fundamentals of music composition, sound design, and digital audio production using industry-standard software and tools. Explore techniques for recording, mixing, and mastering to create professional-quality music tracks. Receive personalized feedback and tips to enhance your music production skills and creative process. Join us and unleash your musical creativity in this dynamic and inspiring workshop.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -338,6 +371,7 @@
         "address": "555 Code Ln, Vancouver, BC",
         "cost": 250,
         "description": "A workshop for aspiring web developers to learn essential skills.",
+        "details": "Master the art of web development in this comprehensive workshop designed for aspiring web developers. Learn essential web technologies, including HTML, CSS, JavaScript, and frameworks like React and Node.js. Build responsive and interactive web applications from scratch, incorporating modern design principles and best practices. Gain hands-on experience with coding exercises, projects, and real-world challenges to solidify your web development skills. Join us and embark on a rewarding journey to become a proficient web developer.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -348,6 +382,7 @@
         "address": "666 Art Blvd, Seattle, WA",
         "cost": 100,
         "description": "Develop your graphic design skills with practical exercises.",
+        "details": "Explore the world of graphic design in this engaging workshop led by experienced designers and creatives. Learn design fundamentals, typography principles, and visual communication techniques to create compelling graphics. Dive into software tools like Adobe Photoshop, Illustrator, and InDesign to bring your design concepts to life. Receive feedback and design critique to refine your design skills and aesthetic sense. Join us and unlock your potential as a skilled graphic designer in this hands-on workshop.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -358,6 +393,7 @@
         "address": "777 Marketing Rd, Toronto, ON",
         "cost": 200,
         "description": "Learn the latest digital marketing strategies and tools.",
+        "details": "Delve into the dynamic world of digital marketing in this insightful workshop led by marketing experts and strategists. Learn the latest digital marketing trends, tactics, and tools to create effective marketing campaigns. Explore strategies for SEO, social media marketing, email marketing, and content marketing to reach and engage your target audience. Gain hands-on experience with marketing analytics, optimization techniques, and campaign planning to drive business growth and success. Join us and elevate your digital marketing skills to achieve marketing excellence.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -368,6 +404,7 @@
         "address": "888 Animation St, Montreal, QC",
         "cost": 180,
         "description": "Create your own animations with guidance from professionals.",
+        "details": "Immerse yourself in the art of animation in this hands-on workshop led by experienced animators and artists. Learn animation principles, techniques, and software tools to create captivating animations. Explore 2D and 3D animation styles, character design, and storytelling through animation. Gain practical skills in animation production, from storyboarding to final rendering, using industry-standard software like Adobe Animate and Blender. Join us and unleash your creativity as you bring characters and stories to life through animation.",
         "category": "Workshops",
         "image": "/event-images/workshop.jpg"
       },
@@ -379,6 +416,7 @@
         "address": "123 Main St, Vancouver, BC",
         "cost": 100,
         "description": "Enhance your leadership skills with insights from top leaders.",
+        "details": "Elevate your leadership capabilities with invaluable insights and strategies shared by top leaders across industries. Dive deep into leadership principles, effective communication, team management, and decision-making to enhance your leadership prowess. Engage in interactive sessions, case studies, and networking opportunities to broaden your leadership perspective and skills. Gain actionable techniques to inspire and lead teams with confidence and vision. Join us at this transformative seminar to unlock your leadership potential and drive organizational success.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -389,6 +427,7 @@
         "address": "456 Pine St, Seattle, WA",
         "cost": 120,
         "description": "Explore the future of artificial intelligence with industry experts.",
+        "details": "Delve into the dynamic world of artificial intelligence with leading experts and innovators in the field. Explore AI trends, applications, challenges, and future possibilities that are shaping industries globally. Gain insights into machine learning, natural language processing, computer vision, and AI ethics to navigate the AI landscape effectively. Engage in discussions, case studies, and demonstrations to understand the impact of AI on businesses and society. Join us for a deep dive into AI advancements and their implications in various sectors.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -399,6 +438,7 @@
         "address": "789 King St W, Toronto, ON",
         "cost": 80,
         "description": "Learn about the latest trends in health and wellness.",
+        "details": "Immerse yourself in the latest trends, innovations, and best practices in health and wellness at this enlightening seminar. Discover holistic approaches to well-being, mental health awareness, nutrition essentials, and fitness strategies for optimal health. Engage with wellness experts, practitioners, and enthusiasts to gain practical insights and actionable tips for a balanced lifestyle. Explore emerging wellness technologies, mindfulness practices, and self-care routines to enhance your overall well-being. Join us for a transformative journey towards a healthier and happier life.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -409,6 +449,7 @@
         "address": "1010 St Catherine St W, Montreal, QC",
         "cost": 110,
         "description": "Gain insights into financial planning and management.",
+        "details": "Gain a comprehensive understanding of financial planning, investment strategies, and wealth management in this insightful seminar. Learn from financial experts about retirement planning, asset allocation, risk management, and financial goal setting. Explore the intricacies of financial markets, economic trends, and investment opportunities to make informed financial decisions. Engage in discussions, case studies, and interactive sessions to develop a personalized financial plan aligned with your goals and aspirations. Join us to empower yourself with financial knowledge and secure your financial future.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -419,6 +460,7 @@
         "address": "111 Marketing St, Vancouver, BC",
         "cost": 90,
         "description": "Discover the latest strategies in digital marketing.",
+        "details": "Dive into the dynamic world of digital marketing with cutting-edge strategies, insights, and tools shared by industry experts. Explore digital marketing trends, content strategies, social media marketing, SEO techniques, and analytics for impactful marketing campaigns. Gain practical tips and best practices to enhance brand visibility, engagement, and conversions across digital channels. Engage in hands-on workshops, case studies, and discussions to sharpen your digital marketing skills and stay ahead in a competitive market. Join us to unlock the potential of digital marketing for business growth and success.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -429,6 +471,7 @@
         "address": "222 Energy St, Seattle, WA",
         "cost": 100,
         "description": "Discuss the future of renewable energy sources.",
+        "details": "Explore the dynamic landscape of renewable energy solutions, innovations, and sustainability practices in this enlightening seminar. Delve into renewable energy sources, green technologies, climate change mitigation, and environmental impact assessments. Engage with industry leaders, researchers, and policymakers to understand the role of renewable energy in addressing global energy challenges. Gain insights into renewable energy policies, investment opportunities, and future trends shaping the energy sector. Join us to contribute to a cleaner, greener future through renewable energy initiatives and collaborations.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -439,6 +482,7 @@
         "address": "333 Innovation Rd, Toronto, ON",
         "cost": 130,
         "description": "Learn about innovative solutions across various industries.",
+        "details": "Immerse yourself in a stimulating exploration of innovation across diverse industries, technologies, and disruptive trends. Discover the drivers of innovation, creative problem-solving techniques, design thinking principles, and innovation management strategies. Engage with innovation experts, entrepreneurs, and thought leaders to unlock innovation opportunities and drive organizational growth. Explore case studies, success stories, and emerging technologies that are revolutionizing business models and markets. Join us for an inspiring seminar to foster a culture of innovation and propel your organization towards success.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -449,6 +493,7 @@
         "address": "444 Startup St, Montreal, QC",
         "cost": 90,
         "description": "A seminar for aspiring entrepreneurs and startup founders.",
+        "details": "Embark on an entrepreneurial journey and explore the vibrant startup ecosystem in this insightful seminar. Learn from successful startup founders, investors, and mentors about startup strategies, funding options, market validation, and growth tactics. Discover the essentials of building a startup from ideation to execution, including product development, marketing, and scaling strategies. Engage in discussions, pitch sessions, and networking opportunities to connect with fellow entrepreneurs and industry experts. Join us to gain valuable insights, resources, and inspiration to launch and grow your startup successfully.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -459,6 +504,7 @@
         "address": "555 Security Ln, Vancouver, BC",
         "cost": 140,
         "description": "Explore the latest trends in cybersecurity and data protection.",
+        "details": "Navigate the complex landscape of cybersecurity threats, risk management, and data protection strategies in this essential seminar. Explore cybersecurity frameworks, incident response planning, threat intelligence, and regulatory compliance requirements. Engage with cybersecurity experts, industry practitioners, and IT professionals to understand the evolving cybersecurity landscape and emerging threats. Learn about cybersecurity best practices, encryption technologies, and cybersecurity hygiene measures to safeguard your organization's assets and information. Join us to strengthen your cybersecurity posture and stay resilient in a digital age.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -469,6 +515,7 @@
         "address": "666 Cloud Blvd, Seattle, WA",
         "cost": 120,
         "description": "Discuss the advancements and challenges in cloud computing.",
+        "details": "Dive into the world of cloud computing and explore the latest trends, technologies, and innovations shaping the cloud landscape. Learn about cloud infrastructure, deployment models, hybrid cloud solutions, and cloud security considerations. Engage with cloud architects, IT professionals, and cloud service providers to understand cloud migration strategies, cost optimization techniques, and scalability benefits. Explore use cases, case studies, and best practices for leveraging cloud computing for business agility and digital transformation. Join us to harness the power of the cloud and accelerate your organization's success.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -479,6 +526,7 @@
         "address": "777 Data Rd, Toronto, ON",
         "cost": 100,
         "description": "Learn about the latest developments in data science.",
+        "details": "Delve into the fascinating world of data science and analytics, exploring data-driven insights, predictive modeling, and machine learning applications. Learn from data science experts, data engineers, and analytics professionals about data collection, cleansing, analysis, and visualization techniques. Discover the role of AI, big data, and data mining in extracting actionable insights and driving business value. Engage in hands-on workshops, data challenges, and interactive sessions to enhance your data science skills and capabilities. Join us to unlock the potential of data science for informed decision-making and innovation.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -489,6 +537,7 @@
         "address": "888 Robot St, Montreal, QC",
         "cost": 150,
         "description": "Discuss the future of robotics and automation.",
+        "details": "Embark on a journey into the world of robotics and automation, exploring cutting-edge technologies, robotics applications, and industry advancements. Learn from robotics experts, engineers, and researchers about robotic systems, artificial intelligence, machine learning, and human-robot interaction. Discover the role of robotics in manufacturing, healthcare, transportation, and smart cities initiatives. Engage in robotics demonstrations, workshops, and discussions to understand the impact of robotics on society and business. Join us to explore the limitless possibilities of robotics and shape the future of automation.",
         "category": "Seminars",
         "image": "/event-images/seminar.jpg"
       },
@@ -500,6 +549,7 @@
         "address": "123 Main St, Vancouver, BC",
         "cost": 20,
         "description": "Explore the latest trends in home design and renovation.",
+        "details": "Immerse yourself in the world of home design and renovation at the Vancouver Home Show. Discover the latest trends, innovative products, and expert insights to transform your living spaces. Explore exhibitor booths showcasing interior design ideas, home improvement solutions, and sustainable living options. Attend workshops, seminars, and demonstrations by industry professionals to gain inspiration and practical tips for your home projects. Join us for a captivating experience that celebrates creativity, craftsmanship, and the art of homemaking.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -510,6 +560,7 @@
         "address": "456 Pine St, Seattle, WA",
         "cost": 25,
         "description": "Discover the latest models and innovations in the automotive industry.",
+        "details": "Rev up your excitement at the Seattle Auto Show, where automotive enthusiasts gather to experience the latest models, cutting-edge technologies, and automotive innovations. Discover a dazzling display of cars, trucks, SUVs, and electric vehicles from leading manufacturers. Explore interactive exhibits, test drives, and special showcases featuring concept cars and futuristic designs. Engage with industry experts, automotive engineers, and enthusiasts to learn about industry trends, sustainability initiatives, and the future of mobility. Join us for an exhilarating journey into the world of automobiles and driving excellence.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -520,6 +571,7 @@
         "address": "789 King St W, Toronto, ON",
         "cost": 30,
         "description": "Showcase of the latest technological advancements and gadgets.",
+        "details": " Step into the future at the Toronto Tech Expo, where innovation meets inspiration in the world of technology. Explore a dynamic showcase of the latest technological advancements, gadgets, and digital solutions transforming industries and lifestyles. Engage with leading tech companies, startups, and industry disruptors to experience hands-on demos, product launches, and tech talks. Discover emerging trends in AI, IoT, blockchain, cybersecurity, and more through interactive exhibits and expert insights. Join us for an immersive tech experience that ignites curiosity, sparks creativity, and drives digital innovation.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -530,6 +582,7 @@
         "address": "1010 St Catherine St W, Montreal, QC",
         "cost": 15,
         "description": "A platform for artists to exhibit their work and connect with buyers.",
+        "details": "Celebrate creativity and artistic expression at the Montreal Art Fair, a vibrant platform for artists, collectors, and art enthusiasts. Explore a diverse collection of contemporary artworks, paintings, sculptures, and mixed media creations from local and international artists. Engage with galleries, art dealers, and curators to discover new talents, trends, and investment opportunities in the art world. Attend art talks, workshops, and live demonstrations to deepen your appreciation and understanding of artistry. Join us for a cultural journey filled with inspiration, expression, and the beauty of visual arts.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -540,6 +593,7 @@
         "address": "111 Food St, Vancouver, BC",
         "cost": 20,
         "description": "Explore the latest trends and products in the food industry.",
+        "details": "Indulge your senses at the Vancouver Food Expo, a culinary extravaganza showcasing the best in food innovation, flavors, and gastronomic delights. Discover a delectable array of gourmet foods, artisanal products, and culinary creations from local chefs, restaurants, and food artisans. Sample a diverse range of cuisines, beverages, and food trends that tantalize your taste buds and ignite your passion for culinary adventures. Engage in cooking demos, tastings, and food pairings to expand your palate and culinary skills. Join us for a foodie paradise that celebrates the artistry and diversity of food culture.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -550,6 +604,7 @@
         "address": "222 Fashion St, Seattle, WA",
         "cost": 35,
         "description": "Discover the latest trends in fashion and apparel.",
+        "details": "Experience the glamour, style, and creativity of the Seattle Fashion Show, where fashion enthusiasts come together to celebrate haute couture and runway elegance. Discover the latest trends, designer collections, and fashion-forward looks from top designers, brands, and emerging talents. Witness dazzling fashion shows, runway presentations, and style showcases featuring iconic pieces and avant-garde designs. Engage with fashion experts, stylists, and industry insiders to unlock fashion secrets, styling tips, and wardrobe essentials. Join us for a dazzling journey into the world of fashion and iconic style statements.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -560,6 +615,7 @@
         "address": "333 Book Rd, Toronto, ON",
         "cost": 10,
         "description": "A gathering for book lovers to explore new titles and meet authors.",
+        "details": "Immerse yourself in a world of literary wonder at the Toronto Book Fair, a gathering of book lovers, authors, and publishing professionals celebrating the written word. Explore a vast collection of books, genres, and literary treasures from local and international authors and publishers. Meet bestselling authors, attend book signings, and participate in literary discussions and readings to discover new titles and literary gems. Engage in book-related activities, workshops, and storytelling sessions for readers of all ages. Join us for a book lover's paradise filled with inspiration, imagination, and the joy of reading.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -570,6 +626,7 @@
         "address": "444 Health St, Montreal, QC",
         "cost": 25,
         "description": "Showcasing the latest products and services in the health industry.",
+        "details": "Explore a world of wellness and health at the Montreal Health Expo, a comprehensive showcase of the latest products, services, and advancements in healthcare and wellness solutions. Discover holistic approaches to health, wellness trends, fitness regimes, and preventive care strategies from leading experts, practitioners, and wellness advocates. Engage in wellness workshops, fitness demos, and interactive sessions to promote physical, mental, and emotional well-being. Learn about innovative healthcare technologies, telemedicine solutions, and personalized wellness programs shaping the future of healthcare. Join us for a transformative experience that empowers you to live your best life.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -580,6 +637,7 @@
         "address": "555 Education Ln, Vancouver, BC",
         "cost": 15,
         "description": "A platform for educational institutions to showcase their programs.",
+        "details": " Discover a world of educational opportunities at the Vancouver Education Fair, a comprehensive platform for students, parents, and educators to explore academic pathways, learning resources, and career development options. Connect with universities, colleges, vocational schools, and educational institutions offering diverse programs, scholarships, and training opportunities. Attend seminars, panel discussions, and career workshops to gain insights into industry trends, job prospects, and skill development in various fields. Engage with admissions experts, career counselors, and industry professionals to plan your educational journey and achieve your academic goals. Join us for an educational adventure that opens doors to lifelong learning and success.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -590,6 +648,7 @@
         "address": "666 Travel Blvd, Seattle, WA",
         "cost": 20,
         "description": "Explore the latest trends and destinations in travel.",
+        "details": "Embark on a journey of discovery at the Seattle Travel Expo, your gateway to the world of travel adventures, destinations, and experiences. Explore a diverse array of travel options, from exotic getaways to cultural immersion trips, family vacations, and eco-friendly tours. Meet travel experts, tour operators, and destination representatives offering insider tips, travel packages, and exclusive deals. Attend travel seminars, destination showcases, and adventure talks to plan your dream vacations and bucket-list adventures. Join us for an inspiring travel experience that ignites wanderlust and opens doors to unforgettable journeys.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -600,6 +659,7 @@
         "address": "777 Pet Rd, Toronto, ON",
         "cost": 10,
         "description": "A showcase of the latest products and services for pet owners.",
+        "details": "Celebrate the bond between pets and their owners at the Toronto Pet Show, a vibrant gathering of pet lovers, animal enthusiasts, and furry friends. Discover a world of pet care, wellness products, and services for dogs, cats, birds, and exotic pets. Explore exhibitor booths showcasing pet accessories, grooming supplies, and innovative pet technologies. Participate in pet competitions, agility demos, and training workshops to learn new tricks and techniques for happy, healthy pets. Meet animal experts, veterinarians, and rescue organizations promoting pet adoption and responsible pet ownership. Join us for a paw-some experience that celebrates the joy of pets and the love they bring to our lives.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -610,6 +670,7 @@
         "address": "888 Career St, Montreal, QC",
         "cost": 15,
         "description": "A platform for job seekers to meet with potential employers.",
+        "details": "Discover your career path and unlock new opportunities at the Montreal Career Fair, a premier networking event for job seekers, professionals, and industry leaders. Connect with employers, recruiters, and HR professionals representing a wide range of industries and sectors. Explore job openings, internship opportunities, and career development programs tailored to your skills and aspirations. Attend career workshops, resume clinics, and interview coaching sessions to enhance your job search strategies and professional profile. Engage with industry experts, career advisors, and mentors to navigate the job market and advance your career goals. Join us for a career-focused event that empowers you to succeed in your professional journey.",
         "category": "Trade Shows",
         "image": "/event-images/tradeshow.jpg"
       },
@@ -621,6 +682,7 @@
         "address": "123 Art St, Vancouver, BC",
         "cost": 10,
         "description": "An exhibition showcasing contemporary art from local artists.",
+        "details": "Immerse yourself in the vibrant world of contemporary art at the Vancouver Contemporary Art Exhibition. This exhibition showcases the diverse talents of local artists, featuring cutting-edge paintings, sculptures, installations, and multimedia artworks. Explore bold expressions, innovative techniques, and thought-provoking themes that define today's art scene. Engage with artists, art enthusiasts, and collectors to discover new perspectives and insights into modern artistry. Whether you're a seasoned art lover or a curious newcomer, this exhibition promises an inspiring journey through contemporary creativity.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -631,6 +693,7 @@
         "address": "456 Photo St, Seattle, WA",
         "cost": 15,
         "description": "A display of stunning photography by renowned photographers.",
+        "details": "Witness the power of visual storytelling at the Seattle Photography Exhibition, a captivating display of stunning photographs by renowned photographers. From breathtaking landscapes to intimate portraits, this exhibition celebrates the artistry and narrative of photography. Explore diverse styles, techniques, and subjects that capture moments, emotions, and perspectives from around the world. Engage with photographers, photography enthusiasts, and collectors to appreciate the beauty and impact of photographic art. Whether you're an aspiring photographer or an admirer of visual imagery, this exhibition offers a unique lens into the world through the eyes of talented photographers.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -641,6 +704,7 @@
         "address": "789 Sculpture St, Toronto, ON",
         "cost": 20,
         "description": "Explore a variety of sculptures from talented artists.",
+        "details": "Experience the beauty and craftsmanship of sculpture at the Toronto Sculpture Exhibition, showcasing a variety of sculptural artworks from talented artists. Explore three-dimensional forms, materials, and concepts that redefine space and aesthetics. From traditional figurative sculptures to abstract installations, this exhibition highlights the diversity and creativity of sculptural expression. Engage with sculptors, art critics, and collectors to delve into the art of sculpting, its techniques, and cultural significance. Whether you're intrigued by monumental sculptures or delicate sculptural details, this exhibition offers a tactile and immersive art experience.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -651,6 +715,7 @@
         "address": "1010 Abstract St, Montreal, QC",
         "cost": 12,
         "description": "An exhibition of abstract art by contemporary artists.",
+        "details": "Enter the realm of abstract art at the Montreal Abstract Art Exhibition, an immersive journey into non-representational forms, colors, and concepts. Explore the power of abstraction to evoke emotions, provoke thoughts, and challenge perceptions. This exhibition features works by contemporary artists pushing the boundaries of visual expression through abstract painting, sculpture, and mixed media. Engage with abstract artists, art critics, and art enthusiasts to unravel the meanings, inspirations, and techniques behind abstract artworks. Whether you're drawn to bold compositions or subtle nuances, this exhibition invites you to explore the endless possibilities of abstract artistry.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -661,6 +726,7 @@
         "address": "111 Street Art St, Vancouver, BC",
         "cost": 10,
         "description": "Showcasing vibrant street art from around the city.",
+        "details": "Immerse yourself in the vibrant world of street art at Vancouver's Street Art Exhibition. Featuring works from local and international artists, this event captures the essence of urban creativity. From colorful murals to intricate graffiti, the exhibition showcases the diversity and innovation of street art culture. Visitors can explore the dynamic energy of the city's street art scene, gaining insight into the stories and messages behind each artwork. It's a celebration of artistry that transforms public spaces into captivating galleries.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -671,6 +737,7 @@
         "address": "222 Modern Art St, Seattle, WA",
         "cost": 18,
         "description": "An exhibition featuring modern art from various artists.",
+        "details": "Embark on a journey through contemporary art at Seattle's Modern Art Exhibition. With contributions from a diverse range of artists, the exhibition presents a kaleidoscope of ideas, styles, and mediums. From abstract expressions to avant-garde installations, visitors will encounter thought-provoking pieces that challenge conventions and inspire dialogue. The event is a testament to the ever-evolving nature of modern art, inviting viewers to engage with cutting-edge creativity and innovative perspectives. It's an opportunity to experience the pulse of artistic innovation in the vibrant city of Seattle.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -681,6 +748,7 @@
         "address": "333 Classic Art St, Toronto, ON",
         "cost": 15,
         "description": "Explore classic art pieces from renowned artists.",
+        "details": "Step into a world of timeless beauty and artistic mastery at Toronto's Classic Art Exhibition. Featuring renowned pieces from art history's iconic masters, the exhibition offers a glimpse into the rich heritage of classical artistry. From Renaissance masterpieces to Baroque splendor, visitors can marvel at the skillful craftsmanship and emotional depth of classic artworks. The event celebrates the enduring legacy of artistic excellence, inviting viewers to appreciate the timeless themes and enduring relevance of classic art. It's a journey through centuries of artistic evolution and cultural heritage.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -691,6 +759,7 @@
         "address": "444 Digital Art St, Montreal, QC",
         "cost": 20,
         "description": "An exhibition showcasing innovative digital art.",
+        "details": "Explore the intersection of art and technology at Montreal's Digital Art Exhibition. Showcasing innovative works by digital artists, the event pushes the boundaries of creative expression in the digital age. From interactive installations to immersive experiences, visitors can engage with art forms that merge cutting-edge technology with artistic vision. The exhibition highlights the transformative power of digital media, offering a glimpse into the future of artistry and storytelling. It's a platform for exploring the limitless possibilities of digital art and its impact on contemporary culture.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -701,6 +770,7 @@
         "address": "555 Mixed Media St, Vancouver, BC",
         "cost": 12,
         "description": "A variety of mixed media artworks from talented artists.",
+        "details": "Dive into a world of artistic experimentation and creativity at Vancouver's Mixed Media Exhibition. Featuring a diverse range of artworks that combine various mediums and techniques, the event showcases the fusion of traditional and contemporary approaches to artmaking. From collage to assemblage, visitors will encounter unique pieces that blur the boundaries between different artistic disciplines. The exhibition celebrates the spirit of innovation and exploration in mixed media art, inviting viewers to experience the richness of multidimensional expression. It's a testament to the endless possibilities of combining materials and ideas to create compelling visual narratives.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -711,6 +781,7 @@
         "address": "666 Watercolor St, Seattle, WA",
         "cost": 10,
         "description": "A display of beautiful watercolor paintings by local artists.",
+        "details": "Delve into the mesmerizing world of watercolor paintings at Seattle's Watercolor Exhibition. Featuring works by local artists, this event showcases the delicate beauty and expressive qualities of watercolor as a medium. From landscapes to portraits, visitors can admire the fluidity and transparency that characterize watercolor artworks. The exhibition offers a glimpse into the skillful techniques and creative visions of watercolor artists, inviting viewers to appreciate the art form's unique charm and versatility.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -721,6 +792,7 @@
         "address": "777 Art Deco St, Toronto, ON",
         "cost": 18,
         "description": "An exhibition of stunning Art Deco pieces.",
+        "details": "Step back in time and experience the glamour of Art Deco at Toronto's Art Deco Exhibition. Showcasing stunning pieces from the Art Deco era, the event captures the elegance, sophistication, and geometric motifs that define this iconic style. From architecture to decorative arts, visitors can explore the visual richness and cultural impact of Art Deco design. The exhibition celebrates the artistic innovations of the early 20th century, offering a nostalgic journey through a bygone era of artistic exuberance and modernist aesthetics.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -731,6 +803,7 @@
         "address": "888 Impressionist St, Montreal, QC",
         "cost": 14,
         "description": "Explore the beautiful world of Impressionist art.",
+        "details": "Immerse yourself in the enchanting world of Impressionist art at Montreal's Impressionist Exhibition. Featuring works by renowned Impressionist painters, the event transports viewers to sunlit landscapes, shimmering waterways, and vibrant scenes of daily life. From brushstroke techniques to color harmonies, visitors can witness the revolutionary approaches that defined Impressionism as a movement. The exhibition celebrates the timeless allure and emotional depth of Impressionist masterpieces, inviting viewers to rediscover the beauty of fleeting moments captured on canvas.",
         "category": "Art Exhibitions",
         "image": "/event-images/art.jpg"
       },
@@ -742,6 +815,7 @@
         "address": "123 Run St, Vancouver, BC",
         "cost": 50,
         "description": "Join the annual Vancouver Marathon and run through scenic routes.",
+        "details": "Lace up your running shoes and join the annual Vancouver Marathon on June 1, 2024. This event offers participants a chance to traverse scenic routes across Vancouver, BC, Canada, showcasing the city's beauty while promoting fitness and community spirit. With a registration cost of $50, runners can experience the thrill of a marathon and achieve personal milestones in a supportive environment.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -752,6 +826,7 @@
         "address": "456 Hoop St, Seattle, WA",
         "cost": 30,
         "description": "Participate in the Seattle basketball tournament and showcase your skills.",
+        "details": "Get ready to dribble, shoot, and score at the Seattle Basketball Tournament on July 15, 2024. Held in Seattle, Washington, at 456 Hoop St, this tournament invites basketball enthusiasts to showcase their skills and compete for victory. With an entry fee of $30, participants can enjoy a day of exciting matches and camaraderie on the court.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -762,6 +837,7 @@
         "address": "789 Goal St, Toronto, ON",
         "cost": 20,
         "description": "Compete in the Toronto Soccer Championship and win exciting prizes.",
+        "details": "Kick off your soccer boots and compete in the Toronto Soccer Championship on August 25, 2024. Taking place in Toronto, Canada, at 789 Goal St, this championship promises thrilling matches and opportunities to win exciting prizes. For a registration fee of $20, soccer players can display their talents and passion for the game on a competitive stage.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -772,6 +848,7 @@
         "address": "1010 Puck St, Montreal, QC",
         "cost": 40,
         "description": "Watch an exciting ice hockey game in Montreal.",
+        "details": "Experience the adrenaline of ice hockey at the Montreal Ice Hockey Game on September 5, 2024. Located in Montreal, Canada, at 1010 Puck St, this game offers spectators an electrifying sports spectacle. With tickets priced at $40, fans can witness skilled players, intense competition, and the fast-paced excitement of ice hockey.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -782,6 +859,7 @@
         "address": "111 Triathlon St, Vancouver, BC",
         "cost": 60,
         "description": "Compete in the Vancouver Triathlon and test your endurance.",
+        "details": "Dive into the Vancouver Triathlon on October 10, 2024, for a test of endurance and athleticism. Set in Vancouver, BC, Canada, at 111 Triathlon St, this triathlon challenges participants to swim, bike, and run their way to the finish line. With an entry fee of $60, triathletes can push their limits and enjoy a rewarding multisport experience.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -792,6 +870,7 @@
         "address": "222 Base St, Seattle, WA",
         "cost": 25,
         "description": "Enjoy a thrilling baseball game in Seattle.",
+        "details": "Catch the excitement at the Seattle Baseball Game on November 20, 2024, as teams battle it out on the diamond. Located at 222 Base St, Seattle, WA, this game promises thrilling innings and memorable plays. Tickets are priced at $25, offering fans an affordable way to enjoy America's favorite pastime.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -802,6 +881,7 @@
         "address": "333 Court St, Toronto, ON",
         "cost": 30,
         "description": "Watch top players compete in the Toronto Tennis Open.",
+        "details": "Experience top-tier tennis action at the Toronto Tennis Open on December 7, 2024. Held at 333 Court St, Toronto, ON, this open tournament features skilled players competing for victory. With tickets priced at $30, tennis enthusiasts can witness intense matches and remarkable displays of athleticism.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -812,6 +892,7 @@
         "address": "444 Track St, Montreal, QC",
         "cost": 35,
         "description": "Join the Montreal Running Festival for a fun and competitive race.",
+        "details": "Lace up your running shoes and join the Montreal Running Festival on January 14, 2024, for a fun and competitive race. Taking place at 444 Track St, Montreal, QC, this festival celebrates the spirit of running with participants of all ages and abilities. Registration costs $35, offering runners a chance to enjoy a scenic course and a festive atmosphere.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -822,6 +903,7 @@
         "address": "555 Scrum St, Vancouver, BC",
         "cost": 25,
         "description": "Watch an intense rugby match in Vancouver.",
+        "details": "Experience the intensity of a rugby match at the Vancouver Rugby Match on February 25, 2024. Located at 555 Scrum St, Vancouver, BC, this match showcases the physicality and skill of rugby players. Tickets are priced at $25, providing rugby fans with an exciting sports experience.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -832,6 +914,7 @@
         "address": "666 Spike St, Seattle, WA",
         "cost": 20,
         "description": "Compete in the Seattle Volleyball Championship and win trophies.",
+        "details": "Spike, set, and score at the Seattle Volleyball Championship on March 21, 2024. Held at 666 Spike St, Seattle, WA, this championship invites teams to compete for trophies and bragging rights. With a registration fee of $20, volleyball enthusiasts can enjoy competitive matches and camaraderie on the court.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -842,6 +925,7 @@
         "address": "777 Punch St, Toronto, ON",
         "cost": 50,
         "description": "Watch a thrilling boxing match in Toronto.",
+        "details": "Witness the excitement of a boxing match at the Toronto Boxing Match on April 18, 2024. Located at 777 Punch St, Toronto, ON, this match features skilled boxers in thrilling bouts. Tickets are priced at $50, offering boxing fans an unforgettable night of action-packed entertainment.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -852,6 +936,7 @@
         "address": "888 Swing St, Montreal, QC",
         "cost": 60,
         "description": "Participate in the Montreal Golf Tournament and showcase your skills.",
+        "details": "Tee off at the Montreal Golf Tournament on May 17, 2024, and showcase your skills on the greens. Taking place at 888 Swing St, Montreal, QC, this tournament welcomes golfers of all levels to compete and enjoy the sport. Registration costs $60, providing participants with a memorable golfing experience.",
         "category": "Sports Events",
         "image": "/event-images/sports.jpg"
       },
@@ -863,6 +948,7 @@
         "address": "123 Festival St, Vancouver, BC",
         "cost": 40,
         "description": "Enjoy live music from various artists at the Vancouver Music Festival.",
+        "details": "Immerse yourself in a day of live music at the Vancouver Music Festival on June 21, 2024. Located at 123 Festival St, Vancouver, BC, this festival features performances from diverse artists across different genres. Tickets are priced at $40, offering attendees a vibrant and memorable musical experience.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -873,6 +959,7 @@
         "address": "456 Cinema St, Seattle, WA",
         "cost": 30,
         "description": "Watch a variety of films at the Seattle Film Festival.",
+        "details": "Dive into the world of cinema at the Seattle Film Festival on July 18, 2024, held at 456 Cinema St, Seattle, WA. This festival showcases a variety of films, from indie gems to blockbuster hits, catering to film enthusiasts of all tastes. With tickets priced at $30, film lovers can enjoy a cinematic journey in Seattle's vibrant film scene.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -883,6 +970,7 @@
         "address": "789 Taste St, Toronto, ON",
         "cost": 25,
         "description": "Savor delicious food from different cultures at the Toronto Food Festival.",
+        "details": "Indulge your taste buds at the Toronto Food Festival on August 19, 2024, located at 789 Taste St, Toronto, ON. This festival celebrates culinary diversity with delicious offerings from different cultures. Admission is $25, inviting food lovers to savor a flavorful experience in Toronto's vibrant food scene.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -893,6 +981,7 @@
         "address": "1010 Jazz St, Montreal, QC",
         "cost": 35,
         "description": "Experience the best of jazz music at the Montreal Jazz Festival.",
+        "details": "Experience the soulful rhythms and melodies at the Montreal Jazz Festival on September 13, 2024. Held at 1010 Jazz St, Montreal, QC, this festival showcases the best of jazz music with performances from renowned artists. Tickets are $35, offering jazz enthusiasts an unforgettable musical journey.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -903,6 +992,7 @@
         "address": "111 Art St, Vancouver, BC",
         "cost": 20,
         "description": "Explore stunning artworks at the Vancouver Art Festival.",
+        "details": "Explore creativity and talent at the Vancouver Art Festival on October 17, 2024. Located at 111 Art St, Vancouver, BC, this festival features stunning artworks from local and international artists. Admission is $20, inviting art enthusiasts to immerse themselves in a world of visual delights.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -913,6 +1003,7 @@
         "address": "222 Culture St, Seattle, WA",
         "cost": 25,
         "description": "Celebrate diverse cultures at the Seattle Cultural Festival.",
+        "details": "Celebrate diversity and culture at the Seattle Cultural Festival on November 14, 2024. Held at 222 Culture St, Seattle, WA, this festival brings communities together through music, dance, and cultural displays. Tickets are $25, offering attendees a vibrant and enriching cultural experience.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -923,6 +1014,7 @@
         "address": "333 Brew St, Toronto, ON",
         "cost": 30,
         "description": "Enjoy a variety of beers at the Toronto Beer Festival.",
+        "details": "Raise a glass and enjoy a variety of beers at the Toronto Beer Festival on December 8, 2024, located at 333 Brew St, Toronto, ON. This festival celebrates the art of brewing with a wide selection of craft beers and brewmasters' creations. Admission is $30, inviting beer enthusiasts to savor unique and flavorful brews.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -933,6 +1025,7 @@
         "address": "444 Snow St, Montreal, QC",
         "cost": 20,
         "description": "Celebrate the winter season at the Montreal Winter Festival.",
+        "details": "Embrace the winter season at the Montreal Winter Festival on January 15, 2024, held at 444 Snow St, Montreal, QC. This festival offers a festive atmosphere with winter-themed activities, entertainment, and culinary delights. Admission is $20, inviting families and friends to enjoy the magic of winter in Montreal.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -943,6 +1036,7 @@
         "address": "555 Laugh St, Vancouver, BC",
         "cost": 25,
         "description": "Laugh out loud at the Vancouver Comedy Festival.",
+        "details": "Get ready for laughter and entertainment at the Vancouver Comedy Festival on February 22, 2024. Located at 555 Laugh St, Vancouver, BC, this festival features hilarious performances from comedians, improv acts, and stand-up routines. Tickets are $25, promising a night filled with humor and fun.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -953,6 +1047,7 @@
         "address": "666 Grape St, Seattle, WA",
         "cost": 40,
         "description": "Taste exquisite wines at the Seattle Wine Festival.",
+        "details": "Savor the flavors of exquisite wines at the Seattle Wine Festival on March 27, 2024. Held at 666 Grape St, Seattle, WA, this festival showcases a diverse selection of wines from local and international vineyards. Admission is $40, inviting wine enthusiasts to discover new favorites and enjoy a sophisticated tasting experience.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -963,6 +1058,7 @@
         "address": "777 Craft St, Toronto, ON",
         "cost": 15,
         "description": "Discover unique handmade items at the Toronto Arts and Crafts Festival.",
+        "details": "Discover unique handmade treasures at the Toronto Arts and Crafts Festival on April 30, 2024. Located at 777 Craft St, Toronto, ON, this festival brings together talented artisans and crafters showcasing their creations. Admission is $15, offering visitors a chance to explore a world of creativity and craftsmanship.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -973,6 +1069,7 @@
         "address": "888 Cinema St, Montreal, QC",
         "cost": 35,
         "description": "Watch films from various genres at the Montreal Film Festival.",
+        "details": "Immerse yourself in cinematic storytelling at the Montreal Film Festival on May 21, 2024. Held at 888 Cinema St, Montreal, QC, this festival presents films from various genres, from compelling dramas to captivating documentaries. Tickets are $35, inviting film enthusiasts to enjoy a diverse selection of cinematic experiences.",
         "category": "Festivals",
         "image": "/event-images/festivals.jpg"
       },
@@ -984,6 +1081,7 @@
         "address": "https://example.com/vancouver-tech-innovations-webinar",
         "cost": 0,
         "description": "Discover the latest innovations in technology.",
+        "details": "Join the Vancouver Tech Innovations Webinar on June 5, 2024, to discover the latest advancements in technology. This online event is free of charge and offers insights into cutting-edge tech trends and innovations.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -994,6 +1092,7 @@
         "address": "https://example.com/seattle-digital-marketing-webinar",
         "cost": 10,
         "description": "Learn digital marketing strategies from industry experts.",
+        "details": "Attend the Seattle Digital Marketing Webinar on July 12, 2024, to learn valuable digital marketing strategies from industry experts. Priced at $10, this webinar provides actionable insights for enhancing your digital marketing efforts.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1004,6 +1103,7 @@
         "address": "https://example.com/toronto-financial-planning-webinar",
         "cost": 15,
         "description": "Gain insights on financial planning and management.",
+        "details": "Gain valuable insights into financial planning and management at the Toronto Financial Planning Webinar on August 20, 2024. With a ticket price of $15, this webinar offers practical tips for effective financial planning.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1014,6 +1114,7 @@
         "address": "https://example.com/montreal-ai-trends-webinar",
         "cost": 20,
         "description": "Explore the latest trends and developments in AI.",
+        "details": "Explore the latest trends and developments in artificial intelligence at the Montreal AI Trends Webinar on September 25, 2024. Priced at $20, this webinar delves into the evolving landscape of AI technology.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1024,6 +1125,7 @@
         "address": "https://example.com/vancouver-health-wellness-webinar",
         "cost": 5,
         "description": "Learn about health and wellness from professionals.",
+        "details": "Learn about health and wellness from professionals at the Vancouver Health and Wellness Webinar on October 18, 2024. With a cost of $5, this webinar covers topics related to maintaining a healthy lifestyle.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1034,6 +1136,7 @@
         "address": "https://example.com/seattle-cybersecurity-webinar",
         "cost": 25,
         "description": "Understand the latest cybersecurity threats and solutions.",
+        "details": "Understand the latest cybersecurity threats and solutions at the Seattle Cybersecurity Webinar on November 15, 2024. Priced at $25, this webinar provides essential knowledge for protecting digital assets.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1044,6 +1147,7 @@
         "address": "https://example.com/toronto-environmental-sustainability-webinar",
         "cost": 0,
         "description": "Discuss environmental sustainability practices.",
+        "details": "Engage in discussions about environmental sustainability practices at the Toronto Environmental Sustainability Webinar on December 10, 2024. This free webinar offers insights into sustainable initiatives and solutions.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1054,6 +1158,7 @@
         "address": "https://example.com/montreal-startup-webinar",
         "cost": 30,
         "description": "Learn how to launch and grow your startup.",
+        "details": "Learn how to launch and grow your startup at the Montreal Startup Webinar on January 15, 2024. With a ticket price of $30, this webinar provides valuable guidance for aspiring entrepreneurs.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1064,6 +1169,7 @@
         "address": "https://example.com/vancouver-ecommerce-webinar",
         "cost": 10,
         "description": "Discover the latest trends in e-commerce.",
+        "details": "Discover the latest trends in e-commerce at the Vancouver E-commerce Webinar on February 20, 2024. Priced at $10, this webinar offers insights into optimizing online retail strategies.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1074,6 +1180,7 @@
         "address": "https://example.com/seattle-leadership-skills-webinar",
         "cost": 15,
         "description": "Enhance your leadership skills with expert advice.",
+        "details": "Enhance your leadership skills with expert advice at the Seattle Leadership Skills Webinar on March 25, 2024. With a cost of $15, this webinar provides actionable tips for effective leadership.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1084,6 +1191,7 @@
         "address": "https://example.com/toronto-creative-writing-webinar",
         "cost": 5,
         "description": "Develop your creative writing skills.",
+        "details": "Develop your creative writing skills at the Toronto Creative Writing Webinar on April 28, 2024. Priced at $5, this webinar offers techniques and exercises for aspiring writers.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1094,6 +1202,7 @@
         "address": "https://example.com/montreal-blockchain-technology-webinar",
         "cost": 20,
         "description": "Explore the potential of blockchain technology.",
+        "details": "Explore the potential of blockchain technology at the Montreal Blockchain Technology Webinar on May 20, 2024. Priced at $20, this webinar delves into the applications and benefits of blockchain in various industries.",
         "category": "Webinars",
         "image": "/event-images/webinar.jpg"
       },
@@ -1105,6 +1214,7 @@
         "address": "123 Charity St, Vancouver, BC",
         "cost": 50,
         "description": "Participate in a charity run to support local shelters.",
+        "details": "Lace up your shoes for the Vancouver Charity Run happening on June 2, 2024, at 123 Charity St, Vancouver, BC. This event aims to support local shelters and community initiatives, fostering a spirit of unity and philanthropy. The registration cost is $50, which goes directly towards funding essential services for those in need. Participants can expect a scenic route and a heartwarming atmosphere as they run for a noble cause. Join hands with fellow runners and make a difference in the lives of others through this impactful charity run.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1115,6 +1225,7 @@
         "address": "456 Gala St, Seattle, WA",
         "cost": 100,
         "description": "Join us for a gala dinner to raise funds for education.",
+        "details": "Get ready for an unforgettable evening at the Seattle Gala Dinner on July 14, 2024, located at 456 Gala St, Seattle, WA. This elegant affair is dedicated to raising funds for education, ensuring that every child has access to quality learning opportunities. With tickets priced at $100, guests can indulge in exquisite dining, entertainment, and silent auctions, all contributing to a brighter future for students. Join prominent figures and philanthropists in supporting educational initiatives that empower the next generation. Your presence at this gala will make a meaningful difference in shaping young minds and fostering academic excellence.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1125,6 +1236,7 @@
         "address": "789 Auction St, Toronto, ON",
         "cost": 20,
         "description": "Bid on exclusive items to support community projects.",
+        "details": "Dive into the excitement of the Toronto Charity Auction scheduled for August 23, 2024, at 789 Auction St, Toronto, ON. This event offers a unique opportunity to bid on exclusive items while supporting a range of community projects and charitable causes. With an entry fee of $20, attendees can engage in friendly bidding wars for valuable items, knowing that every bid contributes to making a positive impact in Toronto. From art pieces to memorabilia, there's something for everyone at this vibrant auction, where generosity meets collectibles. Join fellow bidders and philanthropists in making a difference through the thrill of bidding for a purpose.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1135,6 +1247,7 @@
         "address": "1010 Concert St, Montreal, QC",
         "cost": 75,
         "description": "Enjoy a benefit concert to raise funds for healthcare.",
+        "details": "Immerse yourself in the magic of music at the Montreal Benefit Concert taking place on September 17, 2024, at 1010 Concert St, Montreal, QC. This captivating event is dedicated to raising funds for healthcare initiatives, ensuring access to vital medical services for all. Tickets for this concert are priced at $75, offering attendees an evening filled with soul-stirring performances and charitable contributions. Join musicians, healthcare advocates, and compassionate individuals in supporting the well-being of the community through the power of music and generosity. Your presence at this benefit concert will resonate far beyond the melodies, bringing hope and healing to those in need.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1145,6 +1258,7 @@
         "address": "111 Art St, Vancouver, BC",
         "cost": 25,
         "description": "Support the arts by bidding on unique artworks.",
+        "details": "Step into the world of creativity and philanthropy at the Vancouver Art Auction happening on October 21, 2024, at 111 Art St, Vancouver, BC. This event celebrates the vibrant art scene of Vancouver while raising funds to support local artists and art initiatives. With tickets priced at $25, art enthusiasts can bid on a diverse range of unique artworks, from paintings to sculptures, fostering a thriving artistic community. Join fellow art lovers and collectors in appreciating and acquiring remarkable pieces, all while contributing to the growth and sustainability of Vancouver's artistic landscape. Your participation in this art auction ensures that creativity continues to flourish and artists receive the recognition and support they deserve.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1155,6 +1269,7 @@
         "address": "222 Ball St, Seattle, WA",
         "cost": 120,
         "description": "Join us for a charity ball to support local nonprofits.",
+        "details": "Step into a night of elegance and philanthropy at the Seattle Charity Ball. Join us for an enchanting evening of music, dance, and charitable giving, all in support of local nonprofits. Your attendance not only adds sparkle to the event but also contributes to meaningful causes, making a positive impact on our community. Dress in your finest attire and be part of this glamorous affair dedicated to making a difference.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1165,6 +1280,7 @@
         "address": "333 Walkathon St, Toronto, ON",
         "cost": 30,
         "description": "Walk for a cause and raise funds for children's hospitals.",
+        "details": "Take strides for a cause at the Toronto Walkathon, where every step counts towards raising funds for children's hospitals. Join fellow walkers in a scenic route through Toronto's vibrant streets, knowing that your participation supports vital healthcare services for young patients. Whether you walk solo, with friends, or as a team, your commitment to this event helps create brighter tomorrows for children in need.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1175,6 +1291,7 @@
         "address": "444 Food Drive St, Montreal, QC",
         "cost": 0,
         "description": "Donate food items to support local food banks.",
+        "details": "Share the spirit of giving at the Montreal Food Drive by donating food items to support local food banks. Every contribution, big or small, helps ensure that families in our community have access to nutritious meals. Join us in combating hunger and making a difference in the lives of those facing food insecurity. Your generosity fuels hope and strengthens our community.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1185,6 +1302,7 @@
         "address": "555 Bake St, Vancouver, BC",
         "cost": 10,
         "description": "Buy baked goods to support community programs.",
+        "details": "Treat yourself to delicious baked goods while supporting community programs at the Vancouver Bake Sale. Indulge in a variety of treats, from cookies to cakes, knowing that your purchase contributes directly to initiatives that benefit our community. Bring your friends and family for a sweet day of giving back and enjoying delectable treats for a cause.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1195,6 +1313,7 @@
         "address": "666 Golf St, Seattle, WA",
         "cost": 200,
         "description": "Play golf to raise funds for environmental conservation.",
+        "details": "Tee off for a cause at the Seattle Charity Golf Tournament, where your swings support environmental conservation efforts. Enjoy a day on the greens with fellow golf enthusiasts, knowing that your participation contributes to preserving our planet's natural beauty. Whether you're a seasoned golfer or just starting, this tournament combines sport and philanthropy for a day of meaningful impact.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1205,6 +1324,7 @@
         "address": "777 Blood Drive St, Toronto, ON",
         "cost": 0,
         "description": "Donate blood to save lives in our community.",
+        "details": "Roll up your sleeves and save lives at the Toronto Blood Drive. Your donation of blood is a lifesaving gift that directly benefits individuals in our community in critical need. Join us in this noble cause to ensure a stable blood supply for hospitals and healthcare facilities, making a difference one donation at a time.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       },
@@ -1215,6 +1335,7 @@
         "address": "888 Fashion St, Montreal, QC",
         "cost": 80,
         "description": "Attend a fashion show to support cancer research.",
+        "details": "Experience the intersection of style and philanthropy at the Montreal Charity Fashion Show. Witness captivating runway displays showcasing the latest trends while supporting cancer research initiatives. Your attendance not only celebrates fashion but also contributes to vital medical research, making strides towards a future free from cancer. Join us for an evening of glamour and generosity.",
         "category": "Fundraisers",
         "image": "/event-images/fundraiser.jpg"
       }
