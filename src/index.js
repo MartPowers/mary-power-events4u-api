@@ -2,8 +2,14 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
+const path = require("path");
+
 const app = express();
-const eventsRoute = require('./routes/events');
+const eventsRoute = require("./routes/events");
+app.use(
+"/event-images",
+express.static(path.join(__dirname, "public/event-images"))
+);
 
 // Middleware
 app.use(bodyParser.json());
